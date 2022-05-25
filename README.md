@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Chris Melles.
+- 💞️ I’m looking to collaborate on teaching programming in secondary school.
